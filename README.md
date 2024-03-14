@@ -1,2 +1,2 @@
-# Seguran-a-Basica
+# Seguranca-Basica
 Aulas de segurança e rede
